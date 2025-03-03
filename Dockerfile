@@ -1,8 +1,8 @@
 # syntax=docker/dockerfile:1
 FROM ubuntu:jammy AS base
 LABEL homepage="https://khoj.dev"
-LABEL repository="https://github.com/khoj-ai/khoj"
-LABEL org.opencontainers.image.source="https://github.com/khoj-ai/khoj"
+LABEL repository="https://github.com/kiko09527/khoj"
+LABEL org.opencontainers.image.source="https://github.com/kiko09527/khoj"
 LABEL org.opencontainers.image.description="Your second brain, containerized for personal, local deployment."
 
 # Install System Dependencies
